@@ -1,4 +1,4 @@
-# Electricity-Billing-System-Java-Swing-
+# Electricity-Billing-System-Java-Swing
 My 00134 - OBJECT ORIENTED PROGRAMMING 1 (JAVA) course final project. [Spring 2019-2020]
 The OOP1 principles used in this project are object, class, method overloading, constructor, this
 keyword, abstract class, interface, packages etc.
